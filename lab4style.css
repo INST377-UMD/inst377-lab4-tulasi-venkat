@@ -1,0 +1,42 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: left;
+  padding: 20px;
+  margin-left: 20px;
+  color: black;
+}
+
+.section {
+  display: inline-block;
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
+  background-color: #5f3c93; 
+  border: 2px solid white;
+  border-radius: 10px;
+  color: white;
+  text-align: center; 
+}
+
+input {
+  padding: 5px;
+  display: inline-block;
+  width: 150px;
+}
+
+button {
+  color: black;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+
+
+  
